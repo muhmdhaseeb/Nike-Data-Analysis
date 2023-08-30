@@ -1,10 +1,10 @@
 # Nike-Data-Analysis
 
 Key points for analysis: 
-•	Top 5 Nike Colors
-•	Top 5 Nike Sizes
-•	Gender Wise Product Distribution
-•	Price Bar Chart
-•	Nike Sub_Title Bar Chart
-•	Nike Price Bar Chart
-•	Stock Availability
+1. Top 5 Nike Colors
+2. Top 5 Nike Sizes
+3. Gender Wise Product Distribution
+4. Price Bar Chart
+5. Nike Sub_Title Bar Chart
+6. Nike Price Bar Chart
+7. Stock Availability
